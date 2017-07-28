@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateCSVMatrixFromOD", "GenerateCSVMatrixFromOD.csproj", "{A5EDDB42-FC7F-4F89-A5F5-A3718CA95632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateCSVMatrixFromODTests", "..\GenerateCSVMatrixFromODTests\GenerateCSVMatrixFromODTests.csproj", "{539E49A3-6D08-4CF6-8E44-ED047F273F06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateCSVMatrixFromODTests", "GenerateCSVMatrixFromODTests\GenerateCSVMatrixFromODTests.csproj", "{539E49A3-6D08-4CF6-8E44-ED047F273F06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
