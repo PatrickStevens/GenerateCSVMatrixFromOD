@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+###### exclude build/test generated folders ######
+**/[Oo]bj/
+**/[Bb]in/
+**/[Tt]est[Rr]esult*/
+**/.vs/
+*.playlist
